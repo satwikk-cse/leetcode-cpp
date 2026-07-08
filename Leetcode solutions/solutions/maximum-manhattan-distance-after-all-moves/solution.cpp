@@ -1,0 +1,15 @@
+class Solution {
+public:
+    int maxDistance(string moves) {
+        int up=0, down=0, left=0, right=0, blank=0;
+        for(int i=0;i<moves.size();i++)
+        {
+            if(moves[i]=='U') up++;
+            else if(moves[i]=='D') down++;
+            else if(moves[i]=='L') left++;
+            else if(moves[i]=='R') right++;
+            else blank++;
+        }
+        return abs(right-left)+abs(up-down)+blank;
+    }
+};
