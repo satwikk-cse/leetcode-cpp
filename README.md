@@ -49,6 +49,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [0011-container-with-most-water](https://github.com/satwikk26/leetcode-cpp/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/satwikk26/leetcode-cpp/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/satwikk26/leetcode-cpp/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/satwikk26/leetcode-cpp/tree/master/0054-spiral-matrix) |
 | [0485-max-consecutive-ones](https://github.com/satwikk26/leetcode-cpp/tree/master/0485-max-consecutive-ones) |
 | [0946-validate-stack-sequences](https://github.com/satwikk26/leetcode-cpp/tree/master/0946-validate-stack-sequences) |
 | [1352-product-of-the-last-k-numbers](https://github.com/satwikk26/leetcode-cpp/tree/master/1352-product-of-the-last-k-numbers) |
@@ -110,10 +111,12 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/satwikk26/leetcode-cpp/tree/master/0054-spiral-matrix) |
 | [0946-validate-stack-sequences](https://github.com/satwikk26/leetcode-cpp/tree/master/0946-validate-stack-sequences) |
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/satwikk26/leetcode-cpp/tree/master/0054-spiral-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/satwikk26/leetcode-cpp/tree/master/1572-matrix-diagonal-sum) |
 ## Design
 |  |
