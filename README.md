@@ -73,6 +73,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [0011-container-with-most-water](https://github.com/satwikk26/leetcode-cpp/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/satwikk26/leetcode-cpp/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/satwikk26/leetcode-cpp/tree/master/0125-valid-palindrome) |
+| [0844-backspace-string-compare](https://github.com/satwikk26/leetcode-cpp/tree/master/0844-backspace-string-compare) |
 ## Greedy
 |  |
 | ------- |
@@ -93,6 +94,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [0014-longest-common-prefix](https://github.com/satwikk26/leetcode-cpp/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/satwikk26/leetcode-cpp/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/satwikk26/leetcode-cpp/tree/master/0125-valid-palindrome) |
+| [0844-backspace-string-compare](https://github.com/satwikk26/leetcode-cpp/tree/master/0844-backspace-string-compare) |
 ## Trie
 |  |
 | ------- |
@@ -109,6 +111,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 ## Stack
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/satwikk26/leetcode-cpp/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/satwikk26/leetcode-cpp/tree/master/0946-validate-stack-sequences) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/satwikk26/leetcode-cpp/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
@@ -119,6 +122,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/satwikk26/leetcode-cpp/tree/master/0054-spiral-matrix) |
+| [0844-backspace-string-compare](https://github.com/satwikk26/leetcode-cpp/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/satwikk26/leetcode-cpp/tree/master/0946-validate-stack-sequences) |
 ## Matrix
 |  |
