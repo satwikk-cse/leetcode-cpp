@@ -55,6 +55,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [0861-score-after-flipping-matrix](https://github.com/satwikk26/leetcode-cpp/tree/master/0861-score-after-flipping-matrix) |
 | [0946-validate-stack-sequences](https://github.com/satwikk26/leetcode-cpp/tree/master/0946-validate-stack-sequences) |
 | [1352-product-of-the-last-k-numbers](https://github.com/satwikk26/leetcode-cpp/tree/master/1352-product-of-the-last-k-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/satwikk26/leetcode-cpp/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/satwikk26/leetcode-cpp/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1572-matrix-diagonal-sum](https://github.com/satwikk26/leetcode-cpp/tree/master/1572-matrix-diagonal-sum) |
 | [1732-find-the-highest-altitude](https://github.com/satwikk26/leetcode-cpp/tree/master/1732-find-the-highest-altitude) |
@@ -161,5 +162,10 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 ## Sorting
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/satwikk26/leetcode-cpp/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/satwikk26/leetcode-cpp/tree/master/3536-maximum-product-of-two-digits) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/satwikk26/leetcode-cpp/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
