@@ -54,6 +54,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [0485-max-consecutive-ones](https://github.com/satwikk26/leetcode-cpp/tree/master/0485-max-consecutive-ones) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/satwikk26/leetcode-cpp/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0861-score-after-flipping-matrix](https://github.com/satwikk26/leetcode-cpp/tree/master/0861-score-after-flipping-matrix) |
+| [0881-boats-to-save-people](https://github.com/satwikk26/leetcode-cpp/tree/master/0881-boats-to-save-people) |
 | [0946-validate-stack-sequences](https://github.com/satwikk26/leetcode-cpp/tree/master/0946-validate-stack-sequences) |
 | [1352-product-of-the-last-k-numbers](https://github.com/satwikk26/leetcode-cpp/tree/master/1352-product-of-the-last-k-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/satwikk26/leetcode-cpp/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -78,11 +79,13 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/satwikk26/leetcode-cpp/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/satwikk26/leetcode-cpp/tree/master/0125-valid-palindrome) |
 | [0844-backspace-string-compare](https://github.com/satwikk26/leetcode-cpp/tree/master/0844-backspace-string-compare) |
+| [0881-boats-to-save-people](https://github.com/satwikk26/leetcode-cpp/tree/master/0881-boats-to-save-people) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/satwikk26/leetcode-cpp/tree/master/0011-container-with-most-water) |
 | [0861-score-after-flipping-matrix](https://github.com/satwikk26/leetcode-cpp/tree/master/0861-score-after-flipping-matrix) |
+| [0881-boats-to-save-people](https://github.com/satwikk26/leetcode-cpp/tree/master/0881-boats-to-save-people) |
 ## Math
 |  |
 | ------- |
@@ -164,6 +167,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 ## Sorting
 |  |
 | ------- |
+| [0881-boats-to-save-people](https://github.com/satwikk26/leetcode-cpp/tree/master/0881-boats-to-save-people) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/satwikk26/leetcode-cpp/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/satwikk26/leetcode-cpp/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
