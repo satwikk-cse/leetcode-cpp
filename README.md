@@ -64,6 +64,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/satwikk26/leetcode-cpp/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1572-matrix-diagonal-sum](https://github.com/satwikk26/leetcode-cpp/tree/master/1572-matrix-diagonal-sum) |
 | [1732-find-the-highest-altitude](https://github.com/satwikk26/leetcode-cpp/tree/master/1732-find-the-highest-altitude) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/satwikk26/leetcode-cpp/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Binary Search
 |  |
@@ -163,6 +164,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/satwikk26/leetcode-cpp/tree/master/0013-roman-to-integer) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Brainteaser
 |  |
 | ------- |
@@ -177,6 +179,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [0088-merge-sorted-array](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0088-merge-sorted-array) |
 | [0881-boats-to-save-people](https://github.com/satwikk26/leetcode-cpp/tree/master/0881-boats-to-save-people) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/satwikk26/leetcode-cpp/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/satwikk26/leetcode-cpp/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
 |  |
