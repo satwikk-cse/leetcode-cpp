@@ -51,6 +51,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [0026-remove-duplicates-from-sorted-array](https://github.com/satwikk26/leetcode-cpp/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/satwikk26/leetcode-cpp/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/satwikk26/leetcode-cpp/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/satwikk26/leetcode-cpp/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0088-merge-sorted-array) |
@@ -82,6 +83,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [0011-container-with-most-water](https://github.com/satwikk26/leetcode-cpp/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/satwikk26/leetcode-cpp/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/satwikk26/leetcode-cpp/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/satwikk26/leetcode-cpp/tree/master/0125-valid-palindrome) |
 | [0844-backspace-string-compare](https://github.com/satwikk26/leetcode-cpp/tree/master/0844-backspace-string-compare) |
@@ -128,12 +130,14 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0042-trapping-rain-water) |
 | [0844-backspace-string-compare](https://github.com/satwikk26/leetcode-cpp/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/satwikk26/leetcode-cpp/tree/master/0946-validate-stack-sequences) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/satwikk26/leetcode-cpp/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0042-trapping-rain-water) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/satwikk26/leetcode-cpp/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Simulation
 |  |
@@ -194,4 +198,8 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/satwikk-cse/leetcode-cpp/tree/master/3345-smallest-divisible-digit-product-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
