@@ -66,6 +66,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [1572-matrix-diagonal-sum](https://github.com/satwikk26/leetcode-cpp/tree/master/1572-matrix-diagonal-sum) |
 | [1732-find-the-highest-altitude](https://github.com/satwikk26/leetcode-cpp/tree/master/1732-find-the-highest-altitude) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/satwikk26/leetcode-cpp/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Binary Search
@@ -116,6 +117,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [0125-valid-palindrome](https://github.com/satwikk26/leetcode-cpp/tree/master/0125-valid-palindrome) |
 | [0844-backspace-string-compare](https://github.com/satwikk26/leetcode-cpp/tree/master/0844-backspace-string-compare) |
 | [1108-defanging-an-ip-address](https://github.com/satwikk-cse/leetcode-cpp/tree/master/1108-defanging-an-ip-address) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Trie
 |  |
 | ------- |
@@ -147,6 +149,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [0054-spiral-matrix](https://github.com/satwikk26/leetcode-cpp/tree/master/0054-spiral-matrix) |
 | [0844-backspace-string-compare](https://github.com/satwikk26/leetcode-cpp/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/satwikk26/leetcode-cpp/tree/master/0946-validate-stack-sequences) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -171,6 +174,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | ------- |
 | [0013-roman-to-integer](https://github.com/satwikk26/leetcode-cpp/tree/master/0013-roman-to-integer) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Brainteaser
 |  |
