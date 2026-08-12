@@ -45,6 +45,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/satwikk26/leetcode-cpp/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/satwikk26/leetcode-cpp/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/satwikk26/leetcode-cpp/tree/master/0014-longest-common-prefix) |
@@ -173,6 +174,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/satwikk26/leetcode-cpp/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0242-valid-anagram) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
