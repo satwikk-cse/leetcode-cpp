@@ -125,6 +125,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [0844-backspace-string-compare](https://github.com/satwikk26/leetcode-cpp/tree/master/0844-backspace-string-compare) |
 | [1108-defanging-an-ip-address](https://github.com/satwikk-cse/leetcode-cpp/tree/master/1108-defanging-an-ip-address) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/satwikk-cse/leetcode-cpp/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Trie
 |  |
 | ------- |
@@ -189,6 +190,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/satwikk-cse/leetcode-cpp/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Brainteaser
 |  |
 | ------- |
