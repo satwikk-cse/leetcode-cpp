@@ -72,6 +72,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/satwikk-cse/leetcode-cpp/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/satwikk26/leetcode-cpp/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Binary Search
 |  |
@@ -159,6 +160,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [0946-validate-stack-sequences](https://github.com/satwikk26/leetcode-cpp/tree/master/0946-validate-stack-sequences) |
 | [2295-replace-elements-in-an-array](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2295-replace-elements-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/satwikk-cse/leetcode-cpp/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Matrix
 |  |
 | ------- |
