@@ -72,6 +72,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/satwikk26/leetcode-cpp/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1572-matrix-diagonal-sum](https://github.com/satwikk26/leetcode-cpp/tree/master/1572-matrix-diagonal-sum) |
 | [1732-find-the-highest-altitude](https://github.com/satwikk26/leetcode-cpp/tree/master/1732-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/satwikk-cse/leetcode-cpp/tree/master/1833-maximum-ice-cream-bars) |
 | [2295-replace-elements-in-an-array](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2295-replace-elements-in-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -108,6 +109,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [0011-container-with-most-water](https://github.com/satwikk26/leetcode-cpp/tree/master/0011-container-with-most-water) |
 | [0861-score-after-flipping-matrix](https://github.com/satwikk26/leetcode-cpp/tree/master/0861-score-after-flipping-matrix) |
 | [0881-boats-to-save-people](https://github.com/satwikk26/leetcode-cpp/tree/master/0881-boats-to-save-people) |
+| [1833-maximum-ice-cream-bars](https://github.com/satwikk-cse/leetcode-cpp/tree/master/1833-maximum-ice-cream-bars) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Math
 |  |
@@ -220,6 +222,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [0242-valid-anagram](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0242-valid-anagram) |
 | [0881-boats-to-save-people](https://github.com/satwikk26/leetcode-cpp/tree/master/0881-boats-to-save-people) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/satwikk26/leetcode-cpp/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/satwikk-cse/leetcode-cpp/tree/master/1833-maximum-ice-cream-bars) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/satwikk26/leetcode-cpp/tree/master/3536-maximum-product-of-two-digits) |
@@ -251,4 +254,8 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | ------- |
 | [0169-majority-element](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0229-majority-element-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/satwikk-cse/leetcode-cpp/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
