@@ -58,6 +58,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [0088-merge-sorted-array](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0088-merge-sorted-array) |
 | [0137-single-number-ii](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0260-single-number-iii) |
 | [0485-max-consecutive-ones](https://github.com/satwikk26/leetcode-cpp/tree/master/0485-max-consecutive-ones) |
@@ -196,6 +197,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [0001-two-sum](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/satwikk26/leetcode-cpp/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0242-valid-anagram) |
 | [1207-unique-number-of-occurrences](https://github.com/satwikk-cse/leetcode-cpp/tree/master/1207-unique-number-of-occurrences) |
@@ -258,4 +260,8 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/satwikk-cse/leetcode-cpp/tree/master/1833-maximum-ice-cream-bars) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
