@@ -83,6 +83,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/satwikk-cse/leetcode-cpp/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/satwikk26/leetcode-cpp/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/satwikk-cse/leetcode-cpp/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3731-find-missing-elements](https://github.com/satwikk-cse/leetcode-cpp/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -213,6 +214,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [2744-find-maximum-number-of-string-pairs](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/satwikk-cse/leetcode-cpp/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3731-find-missing-elements](https://github.com/satwikk-cse/leetcode-cpp/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/satwikk-cse/leetcode-cpp/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Brainteaser
 |  |
@@ -235,6 +237,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/satwikk26/leetcode-cpp/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/satwikk-cse/leetcode-cpp/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
