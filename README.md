@@ -86,6 +86,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/satwikk26/leetcode-cpp/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/satwikk-cse/leetcode-cpp/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/satwikk-cse/leetcode-cpp/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/satwikk-cse/leetcode-cpp/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -132,6 +133,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [3345-smallest-divisible-digit-product-i](https://github.com/satwikk-cse/leetcode-cpp/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/satwikk26/leetcode-cpp/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3536-maximum-product-of-two-digits](https://github.com/satwikk26/leetcode-cpp/tree/master/3536-maximum-product-of-two-digits) |
+| [3875-construct-uniform-parity-array-i](https://github.com/satwikk-cse/leetcode-cpp/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
 | ------- |
