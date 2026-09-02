@@ -92,6 +92,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/satwikk26/leetcode-cpp/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/satwikk26/leetcode-cpp/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0069-sqrtx) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/satwikk26/leetcode-cpp/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Divide and Conquer
@@ -126,6 +127,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [0007-reverse-integer](https://github.com/satwikk26/leetcode-cpp/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/satwikk26/leetcode-cpp/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/satwikk26/leetcode-cpp/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0069-sqrtx) |
 | [0292-nim-game](https://github.com/satwikk26/leetcode-cpp/tree/master/0292-nim-game) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/satwikk-cse/leetcode-cpp/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1352-product-of-the-last-k-numbers](https://github.com/satwikk26/leetcode-cpp/tree/master/1352-product-of-the-last-k-numbers) |
@@ -284,4 +286,8 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0219-contains-duplicate-ii) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
