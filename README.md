@@ -54,6 +54,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [0039-combination-sum](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/satwikk26/leetcode-cpp/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/satwikk26/leetcode-cpp/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0088-merge-sorted-array) |
@@ -100,6 +101,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/satwikk26/leetcode-cpp/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
@@ -268,6 +270,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0053-maximum-subarray) |
 ## Counting
 |  |
 | ------- |
