@@ -89,6 +89,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [3731-find-missing-elements](https://github.com/satwikk-cse/leetcode-cpp/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/satwikk-cse/leetcode-cpp/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/satwikk-cse/leetcode-cpp/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/satwikk-cse/leetcode-cpp/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -169,6 +170,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [1352-product-of-the-last-k-numbers](https://github.com/satwikk26/leetcode-cpp/tree/master/1352-product-of-the-last-k-numbers) |
 | [1732-find-the-highest-altitude](https://github.com/satwikk26/leetcode-cpp/tree/master/1732-find-the-highest-altitude) |
 | [3903-smallest-stable-index-i](https://github.com/satwikk-cse/leetcode-cpp/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/satwikk-cse/leetcode-cpp/tree/master/3904-smallest-stable-index-ii) |
 ## Stack
 |  |
 | ------- |
