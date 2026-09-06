@@ -161,6 +161,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3019-number-of-changing-keys](https://github.com/satwikk-cse/leetcode-cpp/tree/master/3019-number-of-changing-keys) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/satwikk-cse/leetcode-cpp/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Trie
 |  |
