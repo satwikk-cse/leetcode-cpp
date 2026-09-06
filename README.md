@@ -79,6 +79,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [1814-count-nice-pairs-in-an-array](https://github.com/satwikk-cse/leetcode-cpp/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/satwikk-cse/leetcode-cpp/tree/master/1833-maximum-ice-cream-bars) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2295-replace-elements-in-an-array](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2295-replace-elements-in-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -158,6 +159,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [1768-merge-strings-alternately](https://github.com/satwikk-cse/leetcode-cpp/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/satwikk-cse/leetcode-cpp/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/satwikk-cse/leetcode-cpp/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Trie
