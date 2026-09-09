@@ -78,6 +78,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [1732-find-the-highest-altitude](https://github.com/satwikk26/leetcode-cpp/tree/master/1732-find-the-highest-altitude) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/satwikk-cse/leetcode-cpp/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/satwikk-cse/leetcode-cpp/tree/master/1833-maximum-ice-cream-bars) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2295-replace-elements-in-an-array](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2295-replace-elements-in-an-array) |
@@ -127,6 +128,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [0881-boats-to-save-people](https://github.com/satwikk26/leetcode-cpp/tree/master/0881-boats-to-save-people) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/satwikk-cse/leetcode-cpp/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1833-maximum-ice-cream-bars](https://github.com/satwikk-cse/leetcode-cpp/tree/master/1833-maximum-ice-cream-bars) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Math
 |  |
