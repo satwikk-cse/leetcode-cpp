@@ -75,6 +75,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/satwikk26/leetcode-cpp/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/satwikk26/leetcode-cpp/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/satwikk-cse/leetcode-cpp/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1528-shuffle-string](https://github.com/satwikk-cse/leetcode-cpp/tree/master/1528-shuffle-string) |
 | [1572-matrix-diagonal-sum](https://github.com/satwikk26/leetcode-cpp/tree/master/1572-matrix-diagonal-sum) |
 | [1732-find-the-highest-altitude](https://github.com/satwikk26/leetcode-cpp/tree/master/1732-find-the-highest-altitude) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/satwikk-cse/leetcode-cpp/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -162,6 +163,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [0796-rotate-string](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/satwikk26/leetcode-cpp/tree/master/0844-backspace-string-compare) |
 | [1108-defanging-an-ip-address](https://github.com/satwikk-cse/leetcode-cpp/tree/master/1108-defanging-an-ip-address) |
+| [1528-shuffle-string](https://github.com/satwikk-cse/leetcode-cpp/tree/master/1528-shuffle-string) |
 | [1768-merge-strings-alternately](https://github.com/satwikk-cse/leetcode-cpp/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/satwikk-cse/leetcode-cpp/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2108-find-first-palindromic-string-in-the-array) |
