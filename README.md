@@ -323,4 +323,8 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0069-sqrtx) |
+## Database
+|  |
+| ------- |
+| [1683-invalid-tweets](https://github.com/satwikk-cse/leetcode-cpp/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
