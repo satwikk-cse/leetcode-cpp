@@ -60,6 +60,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [0088-merge-sorted-array](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0088-merge-sorted-array) |
 | [0137-single-number-ii](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0260-single-number-iii) |
@@ -119,6 +120,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [0042-trapping-rain-water](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/satwikk26/leetcode-cpp/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0189-rotate-array) |
 | [0844-backspace-string-compare](https://github.com/satwikk26/leetcode-cpp/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/satwikk26/leetcode-cpp/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/satwikk-cse/leetcode-cpp/tree/master/1768-merge-strings-alternately) |
@@ -140,6 +142,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [0009-palindrome-number](https://github.com/satwikk26/leetcode-cpp/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/satwikk26/leetcode-cpp/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/satwikk26/leetcode-cpp/tree/master/0292-nim-game) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/satwikk-cse/leetcode-cpp/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1352-product-of-the-last-k-numbers](https://github.com/satwikk26/leetcode-cpp/tree/master/1352-product-of-the-last-k-numbers) |
