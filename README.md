@@ -57,6 +57,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [0053-maximum-subarray](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/satwikk26/leetcode-cpp/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/satwikk26/leetcode-cpp/tree/master/0078-subsets) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0088-merge-sorted-array) |
 | [0137-single-number-ii](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0169-majority-element) |
@@ -103,6 +104,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [0004-median-of-two-sorted-arrays](https://github.com/satwikk26/leetcode-cpp/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/satwikk26/leetcode-cpp/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0069-sqrtx) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/satwikk26/leetcode-cpp/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Divide and Conquer
