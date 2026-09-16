@@ -50,6 +50,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [0011-container-with-most-water](https://github.com/satwikk26/leetcode-cpp/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/satwikk26/leetcode-cpp/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/satwikk26/leetcode-cpp/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/satwikk26/leetcode-cpp/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0042-trapping-rain-water) |
@@ -102,6 +103,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/satwikk26/leetcode-cpp/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/satwikk26/leetcode-cpp/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0081-search-in-rotated-sorted-array-ii) |
