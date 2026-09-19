@@ -67,6 +67,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [0229-majority-element-ii](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0260-single-number-iii) |
 | [0485-max-consecutive-ones](https://github.com/satwikk26/leetcode-cpp/tree/master/0485-max-consecutive-ones) |
+| [0658-find-k-closest-elements](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/satwikk26/leetcode-cpp/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0861-score-after-flipping-matrix](https://github.com/satwikk26/leetcode-cpp/tree/master/0861-score-after-flipping-matrix) |
 | [0881-boats-to-save-people](https://github.com/satwikk26/leetcode-cpp/tree/master/0881-boats-to-save-people) |
@@ -107,6 +108,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [0035-search-insert-position](https://github.com/satwikk26/leetcode-cpp/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0658-find-k-closest-elements](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/satwikk26/leetcode-cpp/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Divide and Conquer
@@ -125,6 +127,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [0088-merge-sorted-array](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/satwikk26/leetcode-cpp/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0189-rotate-array) |
+| [0658-find-k-closest-elements](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0658-find-k-closest-elements) |
 | [0844-backspace-string-compare](https://github.com/satwikk26/leetcode-cpp/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/satwikk26/leetcode-cpp/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/satwikk-cse/leetcode-cpp/tree/master/1768-merge-strings-alternately) |
@@ -274,6 +277,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [0169-majority-element](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0242-valid-anagram) |
+| [0658-find-k-closest-elements](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/satwikk26/leetcode-cpp/tree/master/0881-boats-to-save-people) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/satwikk26/leetcode-cpp/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/satwikk-cse/leetcode-cpp/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -286,6 +290,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0658-find-k-closest-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/satwikk26/leetcode-cpp/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Backtracking
 |  |
@@ -323,6 +328,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0219-contains-duplicate-ii) |
+| [0658-find-k-closest-elements](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0658-find-k-closest-elements) |
 ## Newton's Method
 |  |
 | ------- |
