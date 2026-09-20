@@ -180,6 +180,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3019-number-of-changing-keys](https://github.com/satwikk-cse/leetcode-cpp/tree/master/3019-number-of-changing-keys) |
+| [3498-reverse-degree-of-a-string](https://github.com/satwikk-cse/leetcode-cpp/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/satwikk-cse/leetcode-cpp/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Trie
 |  |
@@ -219,6 +220,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [2295-replace-elements-in-an-array](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2295-replace-elements-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/satwikk-cse/leetcode-cpp/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/satwikk-cse/leetcode-cpp/tree/master/3498-reverse-degree-of-a-string) |
 ## Matrix
 |  |
 | ------- |
