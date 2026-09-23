@@ -65,6 +65,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [0189-rotate-array](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0260-single-number-iii) |
 | [0485-max-consecutive-ones](https://github.com/satwikk26/leetcode-cpp/tree/master/0485-max-consecutive-ones) |
 | [0658-find-k-closest-elements](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0658-find-k-closest-elements) |
@@ -194,6 +195,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0238-product-of-array-except-self) |
 | [1352-product-of-the-last-k-numbers](https://github.com/satwikk26/leetcode-cpp/tree/master/1352-product-of-the-last-k-numbers) |
 | [1732-find-the-highest-altitude](https://github.com/satwikk26/leetcode-cpp/tree/master/1732-find-the-highest-altitude) |
 | [3903-smallest-stable-index-i](https://github.com/satwikk-cse/leetcode-cpp/tree/master/3903-smallest-stable-index-i) |
