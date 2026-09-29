@@ -151,6 +151,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [0007-reverse-integer](https://github.com/satwikk26/leetcode-cpp/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/satwikk26/leetcode-cpp/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/satwikk26/leetcode-cpp/tree/master/0013-roman-to-integer) |
+| [0060-permutation-sequence](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/satwikk26/leetcode-cpp/tree/master/0292-nim-game) |
@@ -346,4 +347,8 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 |  |
 | ------- |
 | [1683-invalid-tweets](https://github.com/satwikk-cse/leetcode-cpp/tree/master/1683-invalid-tweets) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
