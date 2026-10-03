@@ -103,6 +103,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [3875-construct-uniform-parity-array-i](https://github.com/satwikk-cse/leetcode-cpp/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/satwikk-cse/leetcode-cpp/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/satwikk-cse/leetcode-cpp/tree/master/3904-smallest-stable-index-ii) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/satwikk-cse/leetcode-cpp/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -227,6 +228,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [2744-find-maximum-number-of-string-pairs](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/satwikk-cse/leetcode-cpp/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/satwikk-cse/leetcode-cpp/tree/master/3498-reverse-degree-of-a-string) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/satwikk-cse/leetcode-cpp/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Matrix
 |  |
 | ------- |
@@ -270,6 +272,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [3718-smallest-missing-multiple-of-k](https://github.com/satwikk-cse/leetcode-cpp/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/satwikk-cse/leetcode-cpp/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/satwikk-cse/leetcode-cpp/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/satwikk-cse/leetcode-cpp/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Brainteaser
 |  |
 | ------- |
@@ -296,11 +299,13 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/satwikk26/leetcode-cpp/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/satwikk-cse/leetcode-cpp/tree/master/3731-find-missing-elements) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/satwikk-cse/leetcode-cpp/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0658-find-k-closest-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/satwikk26/leetcode-cpp/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/satwikk-cse/leetcode-cpp/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Backtracking
 |  |
 | ------- |
@@ -325,6 +330,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [1814-count-nice-pairs-in-an-array](https://github.com/satwikk-cse/leetcode-cpp/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/satwikk-cse/leetcode-cpp/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -351,4 +357,8 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0060-permutation-sequence) |
+## Ordered Set
+|  |
+| ------- |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/satwikk-cse/leetcode-cpp/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 <!---LeetCode Topics End-->
