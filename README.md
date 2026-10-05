@@ -58,6 +58,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [0047-permutations-ii](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/satwikk26/leetcode-cpp/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/satwikk26/leetcode-cpp/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0088-merge-sorted-array) |
@@ -233,6 +234,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/satwikk26/leetcode-cpp/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0073-set-matrix-zeroes) |
 | [0861-score-after-flipping-matrix](https://github.com/satwikk26/leetcode-cpp/tree/master/0861-score-after-flipping-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/satwikk26/leetcode-cpp/tree/master/1572-matrix-diagonal-sum) |
 ## Design
@@ -256,6 +258,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | ------- |
 | [0001-two-sum](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/satwikk26/leetcode-cpp/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0229-majority-element-ii) |
