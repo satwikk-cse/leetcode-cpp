@@ -143,6 +143,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [0011-container-with-most-water](https://github.com/satwikk26/leetcode-cpp/tree/master/0011-container-with-most-water) |
 | [0861-score-after-flipping-matrix](https://github.com/satwikk26/leetcode-cpp/tree/master/0861-score-after-flipping-matrix) |
 | [0881-boats-to-save-people](https://github.com/satwikk26/leetcode-cpp/tree/master/0881-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/satwikk-cse/leetcode-cpp/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1833-maximum-ice-cream-bars](https://github.com/satwikk-cse/leetcode-cpp/tree/master/1833-maximum-ice-cream-bars) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -179,6 +180,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [0657-robot-return-to-origin](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/satwikk26/leetcode-cpp/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1108-defanging-an-ip-address](https://github.com/satwikk-cse/leetcode-cpp/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/satwikk-cse/leetcode-cpp/tree/master/1528-shuffle-string) |
 | [1768-merge-strings-alternately](https://github.com/satwikk-cse/leetcode-cpp/tree/master/1768-merge-strings-alternately) |
@@ -211,6 +213,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | ------- |
 | [0042-trapping-rain-water](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0042-trapping-rain-water) |
 | [0844-backspace-string-compare](https://github.com/satwikk26/leetcode-cpp/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/satwikk26/leetcode-cpp/tree/master/0946-validate-stack-sequences) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/satwikk26/leetcode-cpp/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
@@ -364,4 +367,8 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 |  |
 | ------- |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/satwikk-cse/leetcode-cpp/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
