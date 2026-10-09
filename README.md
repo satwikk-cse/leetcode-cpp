@@ -69,6 +69,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [0229-majority-element-ii](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/satwikk26/leetcode-cpp/tree/master/0485-max-consecutive-ones) |
 | [0658-find-k-closest-elements](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/satwikk26/leetcode-cpp/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -113,6 +114,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [0035-search-insert-position](https://github.com/satwikk26/leetcode-cpp/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0268-missing-number](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0268-missing-number) |
 | [0658-find-k-closest-elements](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/satwikk26/leetcode-cpp/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -157,6 +159,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [0060-permutation-sequence](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/satwikk26/leetcode-cpp/tree/master/0292-nim-game) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/satwikk-cse/leetcode-cpp/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1352-product-of-the-last-k-numbers](https://github.com/satwikk26/leetcode-cpp/tree/master/1352-product-of-the-last-k-numbers) |
@@ -254,6 +257,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [0078-subsets](https://github.com/satwikk26/leetcode-cpp/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0268-missing-number) |
 | [0861-score-after-flipping-matrix](https://github.com/satwikk26/leetcode-cpp/tree/master/0861-score-after-flipping-matrix) |
 | [1486-xor-operation-in-an-array](https://github.com/satwikk-cse/leetcode-cpp/tree/master/1486-xor-operation-in-an-array) |
 ## Hash Table
@@ -266,6 +270,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [0219-contains-duplicate-ii](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0268-missing-number) |
 | [1207-unique-number-of-occurrences](https://github.com/satwikk-cse/leetcode-cpp/tree/master/1207-unique-number-of-occurrences) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/satwikk-cse/leetcode-cpp/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/satwikk-cse/leetcode-cpp/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -295,6 +300,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [0169-majority-element](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0268-missing-number) |
 | [0658-find-k-closest-elements](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/satwikk26/leetcode-cpp/tree/master/0881-boats-to-save-people) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/satwikk26/leetcode-cpp/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
