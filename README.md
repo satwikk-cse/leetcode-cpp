@@ -96,6 +96,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/satwikk-cse/leetcode-cpp/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/satwikk26/leetcode-cpp/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -328,6 +329,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/satwikk-cse/leetcode-cpp/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
 |  |
