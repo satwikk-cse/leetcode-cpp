@@ -77,6 +77,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [0861-score-after-flipping-matrix](https://github.com/satwikk26/leetcode-cpp/tree/master/0861-score-after-flipping-matrix) |
 | [0881-boats-to-save-people](https://github.com/satwikk26/leetcode-cpp/tree/master/0881-boats-to-save-people) |
 | [0946-validate-stack-sequences](https://github.com/satwikk26/leetcode-cpp/tree/master/0946-validate-stack-sequences) |
+| [0977-squares-of-a-sorted-array](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/satwikk-cse/leetcode-cpp/tree/master/1207-unique-number-of-occurrences) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/satwikk-cse/leetcode-cpp/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1352-product-of-the-last-k-numbers](https://github.com/satwikk26/leetcode-cpp/tree/master/1352-product-of-the-last-k-numbers) |
@@ -141,6 +142,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [0658-find-k-closest-elements](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0658-find-k-closest-elements) |
 | [0844-backspace-string-compare](https://github.com/satwikk26/leetcode-cpp/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/satwikk26/leetcode-cpp/tree/master/0881-boats-to-save-people) |
+| [0977-squares-of-a-sorted-array](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/satwikk-cse/leetcode-cpp/tree/master/1768-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Greedy
@@ -307,6 +309,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [0268-missing-number](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0268-missing-number) |
 | [0658-find-k-closest-elements](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/satwikk26/leetcode-cpp/tree/master/0881-boats-to-save-people) |
+| [0977-squares-of-a-sorted-array](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/satwikk26/leetcode-cpp/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/satwikk-cse/leetcode-cpp/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1833-maximum-ice-cream-bars](https://github.com/satwikk-cse/leetcode-cpp/tree/master/1833-maximum-ice-cream-bars) |
