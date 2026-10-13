@@ -104,6 +104,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/satwikk26/leetcode-cpp/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/satwikk-cse/leetcode-cpp/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/satwikk-cse/leetcode-cpp/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/satwikk-cse/leetcode-cpp/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/satwikk-cse/leetcode-cpp/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/satwikk-cse/leetcode-cpp/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/satwikk-cse/leetcode-cpp/tree/master/3903-smallest-stable-index-i) |
@@ -156,6 +157,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [1833-maximum-ice-cream-bars](https://github.com/satwikk-cse/leetcode-cpp/tree/master/1833-maximum-ice-cream-bars) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/satwikk-cse/leetcode-cpp/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Math
 |  |
 | ------- |
@@ -317,6 +319,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/satwikk26/leetcode-cpp/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/satwikk-cse/leetcode-cpp/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/satwikk-cse/leetcode-cpp/tree/master/3731-find-missing-elements) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/satwikk-cse/leetcode-cpp/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Heap (Priority Queue)
