@@ -1,0 +1,47 @@
+class Solution {
+public:
+    vector<int> intersect(vector<int>& nums1, vector<int>& nums2) {
+        unordered_map<int,int>mp;
+        vector<int>ans;
+
+        if(nums1.size()<=nums2.size())
+        {
+            for(auto i:nums1)
+            {
+                mp[i]++;
+            }
+        }
+        else
+        {
+            for(auto i:nums2)
+            {
+                mp[i]++;
+            }
+        }
+
+        if(nums1.size()>nums2.size())
+        {
+            for(auto i:nums1)
+            {
+                if(mp.find(i)!=mp.end() && mp[i]>0)
+                {
+                    ans.push_back(i);
+                    mp[i]--;
+                }
+            }
+        }
+        else
+        {
+            for(auto i:nums2)
+            {
+                if(mp.find(i)!=mp.end() && mp[i]>0)
+                {
+                    ans.push_back(i);
+                    mp[i]--;
+                }
+            }
+        }
+
+        return ans;
+    }
+};
