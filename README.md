@@ -71,6 +71,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [0238-product-of-array-except-self](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/satwikk26/leetcode-cpp/tree/master/0485-max-consecutive-ones) |
 | [0658-find-k-closest-elements](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/satwikk26/leetcode-cpp/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -120,6 +121,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/satwikk26/leetcode-cpp/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -140,6 +142,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [0125-valid-palindrome](https://github.com/satwikk26/leetcode-cpp/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0189-rotate-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0658-find-k-closest-elements) |
 | [0844-backspace-string-compare](https://github.com/satwikk26/leetcode-cpp/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/satwikk26/leetcode-cpp/tree/master/0881-boats-to-save-people) |
@@ -281,6 +284,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [0229-majority-element-ii](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/satwikk-cse/leetcode-cpp/tree/master/1207-unique-number-of-occurrences) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/satwikk-cse/leetcode-cpp/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/satwikk-cse/leetcode-cpp/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -311,6 +315,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [0229-majority-element-ii](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/satwikk26/leetcode-cpp/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0977-squares-of-a-sorted-array) |
