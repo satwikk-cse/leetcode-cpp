@@ -95,6 +95,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2248-intersection-of-multiple-arrays](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2248-intersection-of-multiple-arrays) |
 | [2295-replace-elements-in-an-array](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2295-replace-elements-in-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -289,6 +290,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [1814-count-nice-pairs-in-an-array](https://github.com/satwikk-cse/leetcode-cpp/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/satwikk-cse/leetcode-cpp/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2248-intersection-of-multiple-arrays](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2248-intersection-of-multiple-arrays) |
 | [2295-replace-elements-in-an-array](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2295-replace-elements-in-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -323,6 +325,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/satwikk-cse/leetcode-cpp/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1833-maximum-ice-cream-bars](https://github.com/satwikk-cse/leetcode-cpp/tree/master/1833-maximum-ice-cream-bars) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2248-intersection-of-multiple-arrays](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2248-intersection-of-multiple-arrays) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/satwikk26/leetcode-cpp/tree/master/3536-maximum-product-of-two-digits) |
@@ -359,6 +362,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [0229-majority-element-ii](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0229-majority-element-ii) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/satwikk-cse/leetcode-cpp/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2248-intersection-of-multiple-arrays](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2248-intersection-of-multiple-arrays) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/satwikk-cse/leetcode-cpp/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Boyer–Moore Majority Vote Algorithm
