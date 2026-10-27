@@ -82,6 +82,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [1207-unique-number-of-occurrences](https://github.com/satwikk-cse/leetcode-cpp/tree/master/1207-unique-number-of-occurrences) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/satwikk-cse/leetcode-cpp/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1352-product-of-the-last-k-numbers](https://github.com/satwikk26/leetcode-cpp/tree/master/1352-product-of-the-last-k-numbers) |
+| [1390-four-divisors](https://github.com/satwikk-cse/leetcode-cpp/tree/master/1390-four-divisors) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/satwikk-cse/leetcode-cpp/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/satwikk26/leetcode-cpp/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/satwikk26/leetcode-cpp/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -175,6 +176,7 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 | [0292-nim-game](https://github.com/satwikk26/leetcode-cpp/tree/master/0292-nim-game) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/satwikk-cse/leetcode-cpp/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1352-product-of-the-last-k-numbers](https://github.com/satwikk26/leetcode-cpp/tree/master/1352-product-of-the-last-k-numbers) |
+| [1390-four-divisors](https://github.com/satwikk-cse/leetcode-cpp/tree/master/1390-four-divisors) |
 | [1486-xor-operation-in-an-array](https://github.com/satwikk-cse/leetcode-cpp/tree/master/1486-xor-operation-in-an-array) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/satwikk-cse/leetcode-cpp/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/satwikk-cse/leetcode-cpp/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -399,4 +401,12 @@ This repository contains my solutions to LeetCode problems, implemented in C++ a
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/satwikk-cse/leetcode-cpp/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Prime Factorization
+|  |
+| ------- |
+| [1390-four-divisors](https://github.com/satwikk-cse/leetcode-cpp/tree/master/1390-four-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1390-four-divisors](https://github.com/satwikk-cse/leetcode-cpp/tree/master/1390-four-divisors) |
 <!---LeetCode Topics End-->
